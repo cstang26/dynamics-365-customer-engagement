@@ -43,7 +43,7 @@ access to tools that help you manage your deals, such as a guided task flow that
 > ![Command bar item 1.](../sales-enterprise/media/number-1.png "Command bar item 1") **Search** customer data.  
 ![Command bar item 2.](../sales-enterprise/media/number-2.png "Command bar item 2") Run a **task flow** for step-by-step walkthroughs of common tasks, such as updating customers' contact info or managing appointments.  
 ![Command bar item 3.](../sales-enterprise/media/number-3.png "Command bar item 3") **Quickly create** customer data by filling in a minimum number of fields.  
-![Command bar item 4.](../sales-enterprise/media/number-4.png "Command bar item 4") With **Advanced Find**, find the records that you need ot export them to Excel to analyze, summarize or aggregate data.  
+![Command bar item 4.](../sales-enterprise/media/number-4.png "Command bar item 4") With **Advanced Find**, find the records that you need to export them to Excel to analyze, summarize or aggregate data.  
 ![Command bar item 5.](media/number-5.png "Command bar item 5") **Set personal preferences** and access privacy statement.  
 ![Command bar item 6.](media/number-6.png "Command bar item 6") Get **help**.  
 
